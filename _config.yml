@@ -13,10 +13,7 @@ url: "https://auditlab.stuartgeiger.com"
 baseurl: "/"
 
 # Twitter IDs
-twitter:
-  username: "chibicode"
-author:
-  twitter: "chibicode"
+
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
@@ -25,7 +22,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "static/images/og.jpg"
+      image: 
 
 # ----------------------------------------------------------------------------
 # Customize Options: Optional
