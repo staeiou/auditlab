@@ -1,31 +1,38 @@
-![](https://chibicode.github.io/duo/static/images/og.jpg)
+# Algorithmic Auditing Lab for Fall 2021
 
-**Duo** is a simple [Jekyll](http://jekyllrb.com/) theme. You can use duo for a single-page site or a simple blog.
+# Details
+* Instructor: R. Stuart Geiger
+* Time: 5-6:50pm on Tuesdays
+* Place: SOLIS 109
 
-- **Demo Page**: [https://chibicode.github.io/duo/](https://chibicode.github.io/duo/)
-- **Example Page:** [My React tutorial](https://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/).
-- **GitHub Repo:** [chibicode/duo](https://github.com/chibicode/duo)
+# Description
 
-<a class="github-button" href="https://github.com/chibicode/duo" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star chibicode/duo on GitHub">Star</a>
+This seminar is for students interested in empirically investigating real-world algorithmic systems of all kinds, particularly those where the classifiers and/or training data are not publicly available. The first few weeks of the class will include more readings and lectures, when we cover the history of auditing and legal/ethical issues it raises. This includes studying classic audits of non-algorithmic decision systems (e.g. equal opportunity hiring investigations) to contemporary issues around the Computer Fraud and Abuse Act and the IRB. We will learn various approaches to investigate such systems, including auditing via training datasets, code, user reports, API scraping, and sockpuppet accounts. We will read and discuss various algorithmic audits by researchers and regulators.  Then, the second half of the class will be more discussion- and activity-based, as we perform audits on several real-world models whose developers have encouraged public auditing (e.g. Wikipedia’s content moderation classifiers). Students will work towards a final project, where they will conduct their own audits of real-world algorithmic systems and develop strategies for how systems can be designed for auditability.
 
-## Get Started
+# Readings
+Thanks to auditingalgorithms.science for many of these!
 
-```bash
-# Download and Install
-git clone https://github.com/chibicode/duo.git
-bundle install
+## Classic auditing in non-algorithmic systems
 
-# Run
-bundle exec jekyll serve
-# open http://localhost:4000/duo
-```
+National Research Council Panel on Measuring Racial Discrimination, The. (2004). Measuring Racial Discrimination. Washington, DC: National Academies Press. http://www.nap.edu/catalog/10887/measuring-racial-discrimination
+Schulman KA, Berlin JA, Harless W, Kerner JF, Sistrunk S, et al. The effect of race and sex on physicians’ recommendations for cardiac catheterization. N. Engl. J. Med. 1999;340(8):618–626.
+Saltman, J. (1975). Implementing Local Housing Laws Through Social Action. Journal of Applied Behavioral Science, 11(1): 39-61.
+Ayres, I. & Siegelman, P. (1995). Race and Gender Discrimination in Bargaining for a New Car. American Economic Review 85(3): 304-321.
+Stuart, G., "Databases, Felons, and Voting: Errors and Bias in the Florida Felons Exclusion List in the 2000 Presidential Elections" (September 2002). KSG Working Paper Series RWP 02-041. Read pp. 22-40. http://ssrn.com/abstract=336540
 
-## Next Steps
+## Algorithmic auditing frameworks and introductions
+Sandvig, C., Hamilton, K., Karahalios, K., & Langbort, C. (2014). “An Algorithm Audit.” In: Seeta Peña Gangadharan (ed.), Data and Discrimination: Collected Essays, pp. 6-10. Washington, DC: New America Foundation. http://www-personal.umich.edu/~csandvig/research/An%20Algorithm%20Audit.pdf
+Sandvig, Christian, Kevin Hamilton, Karrie Karahalios, and Cedric Langbort. forthcoming. "Auditing Algorithms: Research Methods for Detecting Discrimination on Internet Platforms." Computational Culture. http://www-personal.umich.edu/~csandvig/research/Auditing%20Algorithms%20--%20Sandvig%20--%20ICA%202014%20Data%20and%20Discrimination%20Preconference.pdf
+Diakopoulos, Nicholas. 2015. ‘‘Algorithmic Accountability.’’ Digital Journalism 3 (3): 398-415. http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/algorithmic_accountability_final.pdf
+Data & Society Research Institute. 2014 "Workshop Primer: Algorithmic Accountability" http://www.datasociety.net/pubs/2014-0317/AlgorithmicAccountabilityPrimer.pdf
 
-See: [Customize Duo](https://chibicode.github.io/duo/posts/customize).
+## Legal criteria for algorithmic systems / auditing as necessary for due process
+Pasquale, Frank. 2006. "Rankings, Reductionism, and Responsibility" Cleveland State Law Review, 54:115+. http://digitalcommons.law.umaryland.edu/fac_pubs/1351/
+Citron, Danielle Keats, and Frank A. Pasquale. 2014. "The Scored Society: Due Process for Automated Predictions." Washington Law Review 89. http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2376209
+Citron, Danielle Keats, Technological Due Process. Washington University Law Review, Vol. 85, pp. 1249-1313, 2007. READ § I.A., II.B.2, III.C.2. http://ssrn.com/abstract=1012360
 
-## Like or Retweet Appreciated :)
-
-<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Just published: Duo, A Simple Jekyll Theme.  <a href="https://t.co/G2kffR9e4U">https://t.co/G2kffR9e4U</a> <a href="https://twitter.com/jekyllrb?ref_src=twsrc%5Etfw">@jekyllrb</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/923156795824128000?ref_src=twsrc%5Etfw">October 25, 2017</a></blockquote>
-
-<a href="https://github.com/chibicode/duo" class="github-corner"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style><script async defer src="https://buttons.github.io/buttons.js"></script>
+## Algorithmic audits by researchers
+Sweeney, L. Discrimination in Online Ad Delivery. CACM 56(5): 44-54. https://cacm.acm.org/magazines/2013/5/163753-discrimination-in-online-ad-delivery/abstract
+Hannak, A., Soeller, G., Lazer, D., Mislove, A., Wilson, C. (2014). Measuring Price Discrimination and Steering on E-commerce Web Sites. (IMC ’14). http://personalization.ccs.neu.edu/papers/price_discrimination.pdf
+M. Eslami, K. Vaccaro, K. Karahalios, and K. Hamilton. “Be careful; things can be worse than they appear”: Understanding Biased Algorithms and Users’ Behavior around Them in Rating Platforms (ICWSM 2017). http://social.cs.uiuc.edu/papers/ICWSM17-PrePrint.pdf
+Amit Datta, Michael Carl Tschantz, and  Anupam Datta. (2015). Automated Experiments on Ad Privacy Settings: A Tale of Opacity, Choice, and Discrimination. PoPETs 2015: 1. https://www.degruyter.com/view/j/popets.2015.1.issue-1/popets-2015-0007/popets-2015-0007.xml
