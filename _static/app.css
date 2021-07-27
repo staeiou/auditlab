@@ -20,6 +20,10 @@ html[lang="ja"] {
   }
 }
 
+.measure-wide {
+    max-width: 40em;
+}
+
 pre, code, samp, kbd {
   font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
