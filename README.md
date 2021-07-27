@@ -27,10 +27,18 @@ Note that the final reading list and schedule has not yet been finalized. Please
 
 ## The legal and ethical issues of conducting audits
 * Sandvig v. Barr ruling by the U.S. District Court for D.C.: https://www.aclu.org/sites/default/files/field_document/sandvig_opinion.pdf
-* Singal, J. 2019. New York Magazine. "Is a Portland Professor Being Railroaded by His University for Criticizing Social-Justice Research?" https://nymag.com/intelligencer/2019/01/is-peter-boghossian-getting-railroaded-for-his-hoax.html
-* Chronicle of Higher Education Forum. 2018. "What the Grievance Studies Hoax Means." https://www.chronicle.com/article/what-the-grievance-studies-hoax-means/
 * Wendler, David; Miller, Franklin G. "Deception in Research" The Oxford Textbook of Clinical Research Ethics. Oxford University Press, New York. (2008) pgs. 320-321.
 
+### The UMN Linux kernel security audit
+* Clark, M. 2021. The Verge. "University of Minnesota banned from contributing to Linux kernel." https://www.theverge.com/2021/4/22/22398156/university-minnesota-linux-kernal-ban-research
+* Linux Foundation Technical Advisory Board. 2021. "An emergency re-review of kernel commits authored by members of the University of Minnesota, due to the Hypocrite Commits research paper." https://lore.kernel.org/lkml/202105051005.49BFABCE@keescook/
+* Lu, K., Wu, Q., and Pakki, A. "An open letter to the Linux community - April 24, 2021" https://cse.umn.edu/cs/open-letter-linux-community-april-24-2021
+* Hacker News Thread. 2021. "They introduce kernel bugs on purpose." https://news.ycombinator.com/item?id=26887670
+
+### The "Grievance Studies" hoax/audit
+* Singal, J. 2019. New York Magazine. "Is a Portland Professor Being Railroaded by His University for Criticizing Social-Justice Research?" https://nymag.com/intelligencer/2019/01/is-peter-boghossian-getting-railroaded-for-his-hoax.html
+* Chronicle of Higher Education Forum. 2018. "What the Grievance Studies Hoax Means." https://www.chronicle.com/article/what-the-grievance-studies-hoax-means/
+ 
 ## Auditing as a legal right and responsibility
 * Pasquale, Frank. 2006. "Rankings, Reductionism, and Responsibility" Cleveland State Law Review, 54:115+. http://digitalcommons.law.umaryland.edu/fac_pubs/1351/
 * Citron, Danielle Keats, and Frank A. Pasquale. 2014. "The Scored Society: Due Process for Automated Predictions." Washington Law Review 89. http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2376209
