@@ -1,13 +1,12 @@
-# Algorithmic Auditing Lab for Fall 2021
-
 # Details
+* Class: DSC 290
 * Instructor: R. Stuart Geiger
 * Time: 5-6:50pm on Tuesdays
 * Place: SOLIS 109
 
 # Description
 
-This seminar is for students interested in empirically investigating real-world algorithmic systems of all kinds, particularly those where the classifiers and/or training data are not publicly available. The first few weeks of the class will include more readings and lectures, when we cover the history of auditing and legal/ethical issues it raises. This includes studying classic audits of non-algorithmic decision systems (e.g. equal opportunity hiring investigations) to contemporary issues around the Computer Fraud and Abuse Act and the IRB. We will learn various approaches to investigate such systems, including auditing via training datasets, code, user reports, API scraping, and sockpuppet accounts. We will read and discuss various algorithmic audits by researchers and regulators.  Then, the second half of the class will be more discussion- and activity-based, as we perform audits on several real-world models whose developers have encouraged public auditing (e.g. Wikipedia’s content moderation classifiers). Students will work towards a final project, where they will conduct their own audits of real-world algorithmic systems and develop strategies for how systems can be designed for auditability.
+This seminar is for students interested in empirically investigating real-world algorithmic systems of all kinds, particularly those where the classifiers and/or training data are not publicly available. The first few weeks of the class will include more readings and lectures, when we cover the history of auditing and legal/ethical issues it raises. This includes studying classic audits of non-algorithmic decision systems (e.g. equal opportunity hiring investigations) to contemporary issues around the Computer Fraud and Abuse Act and the IRB. We will learn various approaches to investigate such systems, including auditing via training datasets, code, user reports, API scraping, and sockpuppet accounts. We will read and discuss various algorithmic audits by researchers and regulators, with will be a mix of selected readings and readings students choose. Then, the second half of the class will be more discussion- and activity-based, as we perform audits on several real-world models whose developers have encouraged public auditing (e.g. Wikipedia’s content moderation classifiers). Students will work towards a final project, where they will conduct their own audits of real-world algorithmic systems and develop strategies for how systems can be designed for auditability.
 
 # Readings
 Thanks to auditingalgorithms.science for many of these!
