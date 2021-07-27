@@ -25,7 +25,13 @@ Note that the final reading list and schedule has not yet been finalized. Please
 * Diakopoulos, Nicholas. 2015. ‘‘Algorithmic Accountability.’’ Digital Journalism 3 (3): 398-415. http://www.nickdiakopoulos.com/wp-content/uploads/2011/07/algorithmic_accountability_final.pdf
 * Data & Society Research Institute. 2014 "Workshop Primer: Algorithmic Accountability" http://www.datasociety.net/pubs/2014-0317/AlgorithmicAccountabilityPrimer.pdf
 
-## Legal criteria for algorithmic systems / auditing as necessary for due process
+## The legal and ethical issues of conducting audits
+* Sandvig v. Barr ruling by the U.S. District Court for D.C.: https://www.aclu.org/sites/default/files/field_document/sandvig_opinion.pdf
+* Singal, J. 2019. New York Magazine. "Is a Portland Professor Being Railroaded by His University for Criticizing Social-Justice Research?" https://nymag.com/intelligencer/2019/01/is-peter-boghossian-getting-railroaded-for-his-hoax.html
+* Chronicle of Higher Education Forum. 2018. "What the Grievance Studies Hoax Means." https://www.chronicle.com/article/what-the-grievance-studies-hoax-means/
+* Wendler, David; Miller, Franklin G. "Deception in Research" The Oxford Textbook of Clinical Research Ethics. Oxford University Press, New York. (2008) pgs. 320-321.
+
+## Auditing as a legal right and responsibility
 * Pasquale, Frank. 2006. "Rankings, Reductionism, and Responsibility" Cleveland State Law Review, 54:115+. http://digitalcommons.law.umaryland.edu/fac_pubs/1351/
 * Citron, Danielle Keats, and Frank A. Pasquale. 2014. "The Scored Society: Due Process for Automated Predictions." Washington Law Review 89. http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2376209
 * Citron, Danielle Keats, Technological Due Process. Washington University Law Review, Vol. 85, pp. 1249-1313, 2007. READ § I.A., II.B.2, III.C.2. http://ssrn.com/abstract=1012360
