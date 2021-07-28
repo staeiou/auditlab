@@ -37,7 +37,7 @@ Note that the final reading list and schedule has not yet been finalized. Please
 
 ### The UMN Linux kernel security audit
 * Clark, M. 2021. The Verge. "University of Minnesota banned from contributing to Linux kernel." <a href="https://www.theverge.com/2021/4/22/22398156/university-minnesota-linux-kernal-ban-research" target="_blank">https://www.theverge.com/2021/4/22/22398156/university-minnesota-linux-kernal-ban-research</a>
-* Linux Foundation Technical Advisory Board. 2021. "An emergency re-review of kernel commits authored by members of the University of Minnesota, due to the Hypocrite Commits research paper." <a href="https://lore.kernel.org/lkml/202105051005.49BFABCE" target="_blank">https://lore.kernel.org/lkml/202105051005.49BFABCE</a>@keescook/
+* Linux Foundation Technical Advisory Board. 2021. "An emergency re-review of kernel commits authored by members of the University of Minnesota, due to the Hypocrite Commits research paper." <a href="https://lore.kernel.org/lkml/202105051005.49BFABCE@keescook/" target="_blank">https://lore.kernel.org/lkml/202105051005.49BFABCE@keescook/</a>
 * Lu, K., Wu, Q., and Pakki, A. "An open letter to the Linux community - April 24, 2021" <a href="https://cse.umn.edu/cs/open-letter-linux-community-april-24-2021" target="_blank">https://cse.umn.edu/cs/open-letter-linux-community-april-24-2021</a>
 * Hacker News Thread. 2021. "They introduce kernel bugs on purpose." <a href="https://news.ycombinator.com/item?id=26887670" target="_blank">https://news.ycombinator.com/item?id=26887670</a>
  
