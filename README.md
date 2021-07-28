@@ -32,7 +32,7 @@ Note that the final reading list and schedule has not yet been finalized. Please
 * Bandy, J. (2021). Problematic Machine Behavior: A Systematic Literature Review of Algorithm Audits. Proceedings of the ACM on Human-Computer Interaction, 5(CSCW1), 1-34. <a href="https://dl.acm.org/doi/pdf/10.1145/3449148">https://dl.acm.org/doi/pdf/10.1145/3449148</a>
 
 ## The legal and ethical issues of conducting audits
-* Sandvig v. Barr ruling by the U.S. District Court for D.C.: <a href="https://www.aclu.org/sites/default/files/field_document/sandvig_opinion.pdf" target="_blank">https://www.aclu.org/sites/default/files/field_document/sandvig_opinion.pdf</a>
+* Sandvig v. Barr ruling by the U.S. District Court for D.C.: <a href="https://www.aclu.org/sites/default/files/field_document/sandvig_opinion.pdf" target="_blank">https://www.aclu.org/sites/default/files/field_document/sandvig_opinion.pdf</a>. Read pages 1-2 and 15-28 (part 2 beginning with "II. Interpreting the CFAA")
 * Wendler, David; Miller, Franklin G. "Deception in Research." The Oxford Textbook of Clinical Research Ethics. Oxford University Press, New York. (2008) pgs. 320-321.
 
 ### The UMN Linux kernel security audit
