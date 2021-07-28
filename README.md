@@ -25,7 +25,7 @@ Note that the final reading list and schedule has not yet been finalized. Please
 * Schulman KA, Berlin JA, Harless W, Kerner JF, Sistrunk S, et al. The effect of race and sex on physicians’ recommendations for cardiac catheterization. N. Engl. J. Med. 1999;340(8):618–626. <a href="https://doi.org/10.1056/NEJM199902253400806">https://doi.org/10.1056/NEJM199902253400806</a>
 * Saltman, J. (1975). Implementing Local Housing Laws Through Social Action. Journal of Applied Behavioral Science, 11(1): 39-61. <a href="https://doi.org/10.1177%2F002188637501100105">https://doi.org/10.1177%2F002188637501100105</a> 
 * Ayres, I. &amp; Siegelman, P. (1995). Race and Gender Discrimination in Bargaining for a New Car. American Economic Review 85(3): 304-321. <a href="https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%20Media/Ayres_Siegelman_1995_Discrimination.pdf">https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Reference%20Media/Ayres_Siegelman_1995_Discrimination.pdf</a>
-* Stuart, G., "Databases, Felons, and Voting: Errors and Bias in the Florida Felons Exclusion List in the 2000 Presidential Elections" (September 2002). KSG Working Paper Series RWP 02-041. Read pp. 22-40. <a href="http://ssrn.com/abstract=336540" target="_blank">http://ssrn.com/abstract=336540</a>
+
 
 ## Algorithmic auditing frameworks and introductions
 * Sandvig, C., Hamilton, K., Karahalios, K., &amp; Langbort, C. (2014). “An Algorithm Audit.” In: Seeta Peña Gangadharan (ed.), Data and Discrimination: Collected Essays, pp. 6-10. Washington, DC: New America Foundation. <a href="http://www-personal.umich.edu/~csandvig/research/An%20Algorithm%20Audit.pdf" target="_blank">http://www-personal.umich.edu/~csandvig/research/An%20Algorithm%20Audit.pdf</a>
@@ -45,10 +45,11 @@ Note that the final reading list and schedule has not yet been finalized. Please
 * Lu, K., Wu, Q., and Pakki, A. "An open letter to the Linux community - April 24, 2021" <a href="https://cse.umn.edu/cs/open-letter-linux-community-april-24-2021" target="_blank">https://cse.umn.edu/cs/open-letter-linux-community-april-24-2021</a>
 * Hacker News Thread. 2021. "They introduce kernel bugs on purpose." <a href="https://news.ycombinator.com/item?id=26887670" target="_blank">https://news.ycombinator.com/item?id=26887670</a>
  
-### Legal obligations to audit algorithms used by government agencies
+### On legal challenges to algorithms used by government agencies
 * Pasquale, Frank. 2006. "Rankings, Reductionism, and Responsibility" Cleveland State Law Review, 54:115+. <a href="http://digitalcommons.law.umaryland.edu/fac_pubs/1351/" target="_blank">http://digitalcommons.law.umaryland.edu/fac_pubs/1351/</a>
 * Citron, Danielle Keats, and Frank A. Pasquale. 2014. "The Scored Society: Due Process for Automated Predictions." Washington Law Review 89. <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2376209" target="_blank">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2376209</a>
 * Citron, Danielle Keats, Technological Due Process. Washington University Law Review, Vol. 85, pp. 1249-1313, 2007. READ § I.A., II.B.2, III.C.2. <a href="http://ssrn.com/abstract=1012360" target="_blank">http://ssrn.com/abstract=1012360</a>
+* Stuart, G., "Databases, Felons, and Voting: Errors and Bias in the Florida Felons Exclusion List in the 2000 Presidential Elections" (September 2002). KSG Working Paper Series RWP 02-041. Read pp. 22-40. <a href="http://ssrn.com/abstract=336540" target="_blank">http://ssrn.com/abstract=336540</a>
 
 ## Algorithmic audits 
 
@@ -91,6 +92,7 @@ videos. arxiv:2003.03318 [cs.CY] <a href="https://arxiv.org/abs/2003.0331">https
 * Dressel, J., & Farid, H. (2018). The accuracy, fairness, and limits of predicting recidivism. Science advances, 4(1), eaao5580. <a href="https://advances.sciencemag.org/content/advances/4/1/eaao5580.full.pdf">https://advances.sciencemag.org/content/advances/4/1/eaao5580.full.pdf</a>
 * Washington, A. L. (2018). How to argue with an algorithm: Lessons from the COMPAS-ProPublica debate. Colo. Tech. LJ, 17, 131. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3357874">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3357874</a>
 
-### Other rankings
+### Other 
 * Qiu, H. and Du, W. "A True Lie about Reed College: U.S News Ranking" <a href="https://raw.githubusercontent.com/huayingq1996/Reed-College-Ranking/master/paper.pdf" target="_blank">https://raw.githubusercontent.com/huayingq1996/Reed-College-Ranking/master/paper.pdf</a>
+* Stuart, G., "Databases, Felons, and Voting: Errors and Bias in the Florida Felons Exclusion List in the 2000 Presidential Elections" (September 2002). KSG Working Paper Series RWP 02-041. Read pp. 22-40. <a href="http://ssrn.com/abstract=336540" target="_blank">http://ssrn.com/abstract=336540</a>
 
