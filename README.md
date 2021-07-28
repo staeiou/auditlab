@@ -11,8 +11,9 @@ This seminar is for students interested in empirically investigating the outputs
 # Prerequsites
 * Introductory Statistics: The math and statistics of auditing are not as complex as those used in developing machine learning algorithms, but does involve statistics at the undergraduate level (e.g. <a href="https://cogsci.ucsd.edu/~nunez/COGS14B_W17/Syllabus14B_W17.htm">COGS 14B</a>)
 * Programming for data collection and analysis: A working knowledge of a scripting language like python or R is highly recommended (e.g. what is taught in <a href="https://ucsd-cse8a-w20.github.io/">CSE 8A</a> or <a href="https://www.coursera.org/learn/python-data-analysis#syllabus">this coursera class</a>. Some audit methods involve automated data collection. We will learn how to query APIs and run headless browsers using standard libraries. Jupyter Notebooks will be used for literate programming. This class will be registered for UCSD datahub, which provides a web/cloud-based Jupyter environment in python and R. 
+* All students must take and pass the UCSD/CITI IRB Human Subject Protection Training online course (Social and Behavioral Basic Course), by the end of week 2 of the class. This takes about 2-3 hours total and can be taken at any time, even during the summer. Register at <a href="https://citiprogram.org">citiprogram.org</a> (no SSO available) and affiliate with UCSD. See more info at <a href="https://irb.ucsd.edu/CITI_UCSD_Training.pdf">https://irb.ucsd.edu/CITI_UCSD_Training.pdf</a>. If you have passed the course in the past 3 years, your certificate is still valid; if not, you must take the shorter refresher course. 
 
-# Readings
+# Potential readings
 Note that the final reading list and schedule has not yet been finalized. Please reach out to Stuart Geiger if you have any suggestions or ideas. And thanks to <a href="https://auditingalgorithms.science">auditingalgorithms.science</a> for many of these!
 
 ## Classic auditing in non-algorithmic systems
