@@ -49,7 +49,7 @@ Note that the final reading list and schedule has not yet been finalized. Please
 * Citron, Danielle Keats, and Frank A. Pasquale. 2014. "The Scored Society: Due Process for Automated Predictions." Washington Law Review 89. <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2376209" target="_blank">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2376209</a>
 * Citron, Danielle Keats, Technological Due Process. Washington University Law Review, Vol. 85, pp. 1249-1313, 2007. READ § I.A., II.B.2, III.C.2. <a href="http://ssrn.com/abstract=1012360" target="_blank">http://ssrn.com/abstract=1012360</a>
 
-## Algorithmic audits by researchers
+## Algorithmic audits 
 
 ### Online advertising and pricing
 * Sweeney, L. Discrimination in Online Ad Delivery. CACM 56(5): 44-54. <a href="https://cacm.acm.org/magazines/2013/5/163753-discrimination-in-online-ad-delivery/abstract" target="_blank">https://cacm.acm.org/magazines/2013/5/163753-discrimination-in-online-ad-delivery/abstract</a>
@@ -71,12 +71,12 @@ videos. arxiv:2003.03318 [cs.CY] <a href="https://arxiv.org/abs/2003.0331">https
 
 * Ulloa, R., Makhortykh, M., & Urman, A. (2021). "Algorithm Auditing at a Large-Scale: Insights from Search Engine Audits." arXiv preprint arXiv:2106.05831. <a href="https://arxiv.org/abs/2106.05831">https://arxiv.org/abs/2106.05831</a>
 
-### Social media moderation
+### Social media and user-generated content
 
 * M. Eslami, K. Vaccaro, K. Karahalios, and K. Hamilton. “Be careful; things can be worse than they appear”: Understanding Biased Algorithms and Users’ Behavior around Them in Rating Platforms (ICWSM 2017). <a href="http://social.cs.uiuc.edu/papers/ICWSM17-PrePrint.pdf" target="_blank">http://social.cs.uiuc.edu/papers/ICWSM17-PrePrint.pdf</a>
 * King, G., Pan, J., & Roberts, M. E. (2014). Reverse-engineering censorship in China: Randomized experimentation and participant observation. Science, 345(6199). <a href="https://science.sciencemag.org/content/345/6199/1251722.abstract">https://science.sciencemag.org/content/345/6199/1251722.abstract</a>
 
-### The ProPublica vs. COMPAS/Northpointe debate on criminal risk scores
+### The ProPublica vs. COMPAS/Northpointe debate on COMPAS criminal risk scores
 * Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). Machine bias: There’s software used across the country to predict future criminals. And it’s biased against blacks. ProPublica (2016). <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing<a/>
 * Dieterich, W., Mendoza, C., & Brennan, T. (2016). COMPAS risk scales: Demonstrating accuracy equity and predictive parity. Northpointe Inc. <a href="https://go.volarisgroup.com/rs/430-MBX-989/images/ProPublica_Commentary_Final_070616.pdf">https://go.volarisgroup.com/rs/430-MBX-989/images/ProPublica_Commentary_Final_070616.pdf</a>
 * Angwin, J., & Larson, J. (2016). Technical Response to Northpointe. ProPublica. <a href="https://www.propublica.org/article/technical-response-to-northpointe">https://www.propublica.org/article/technical-response-to-northpointe</a> (and their annotations of the Dieterich et al response: <a href="https://www.documentcloud.org/documents/3248777-Lowenkamp-Fedprobation-sept2016-0.html">https://www.documentcloud.org/documents/3248777-Lowenkamp-Fedprobation-sept2016-0.html</a>
@@ -84,6 +84,6 @@ videos. arxiv:2003.03318 [cs.CY] <a href="https://arxiv.org/abs/2003.0331">https
 * Dressel, J., & Farid, H. (2018). The accuracy, fairness, and limits of predicting recidivism. Science advances, 4(1), eaao5580. <a href="https://advances.sciencemag.org/content/advances/4/1/eaao5580.full.pdf">https://advances.sciencemag.org/content/advances/4/1/eaao5580.full.pdf</a>
 * Washington, A. L. (2018). How to argue with an algorithm: Lessons from the COMPAS-ProPublica debate. Colo. Tech. LJ, 17, 131. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3357874">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3357874</a>
 
-### Rankings
+### Other rankings
 * Qiu, H. and Du, W. "A True Lie about Reed College: U.S News Ranking" <a href="https://raw.githubusercontent.com/huayingq1996/Reed-College-Ranking/master/paper.pdf" target="_blank">https://raw.githubusercontent.com/huayingq1996/Reed-College-Ranking/master/paper.pdf</a>
 
