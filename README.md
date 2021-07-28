@@ -50,27 +50,40 @@ Note that the final reading list and schedule has not yet been finalized. Please
 * Citron, Danielle Keats, Technological Due Process. Washington University Law Review, Vol. 85, pp. 1249-1313, 2007. READ § I.A., II.B.2, III.C.2. <a href="http://ssrn.com/abstract=1012360" target="_blank">http://ssrn.com/abstract=1012360</a>
 
 ## Algorithmic audits by researchers
-* Buolamwini, J., & Gebru, T. (2018, January). Gender shades: Intersectional accuracy disparities in commercial gender classification. In Conference on fairness, accountability and transparency (pp. 77-91). PMLR. <a href="http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf">http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf</a>
+
+### Online advertising and pricing
 * Sweeney, L. Discrimination in Online Ad Delivery. CACM 56(5): 44-54. <a href="https://cacm.acm.org/magazines/2013/5/163753-discrimination-in-online-ad-delivery/abstract" target="_blank">https://cacm.acm.org/magazines/2013/5/163753-discrimination-in-online-ad-delivery/abstract</a>
 * Hannak, A., Soeller, G., Lazer, D., Mislove, A., Wilson, C. (2014). Measuring Price Discrimination and Steering on E-commerce Web Sites. (IMC ’14). <a href="http://personalization.ccs.neu.edu/papers/price_discrimination.pdf" target="_blank">http://personalization.ccs.neu.edu/papers/price_discrimination.pdf</a>
-* M. Eslami, K. Vaccaro, K. Karahalios, and K. Hamilton. “Be careful; things can be worse than they appear”: Understanding Biased Algorithms and Users’ Behavior around Them in Rating Platforms (ICWSM 2017). <a href="http://social.cs.uiuc.edu/papers/ICWSM17-PrePrint.pdf" target="_blank">http://social.cs.uiuc.edu/papers/ICWSM17-PrePrint.pdf</a>
 * Amit Datta, Michael Carl Tschantz, and  Anupam Datta. (2015). Automated Experiments on Ad Privacy Settings: A Tale of Opacity, Choice, and Discrimination. PoPETs 2015: 1. <a href="https://www.degruyter.com/view/j/popets.2015.1.issue-1/popets-2015-0007/popets-2015-0007.xml" target="_blank">https://www.degruyter.com/view/j/popets.2015.1.issue-1/popets-2015-0007/popets-2015-0007.xml</a>
-* King, G., Pan, J., & Roberts, M. E. (2014). Reverse-engineering censorship in China: Randomized experimentation and participant observation. Science, 345(6199). <a href="https://science.sciencemag.org/content/345/6199/1251722.abstract">https://science.sciencemag.org/content/345/6199/1251722.abstract</a>
-* Qiu, H. and Du, W. "A True Lie about Reed College: U.S News Ranking" <a href="https://raw.githubusercontent.com/huayingq1996/Reed-College-Ranking/master/paper.pdf" target="_blank">https://raw.githubusercontent.com/huayingq1996/Reed-College-Ranking/master/paper.pdf</a>
+* Giridhari Venkatadri, Piotr Sapiezynski, Elissa Redmiles, Alan Mislove, Oana Goga, Michelle Mazurek, and Krishna P. Gummadi. 2019. Auditing Offline Data Brokers via Facebook’s Advertising Platform. The Web Conference 2019. <a href="https://doi.org/10.1145/3308558.3313666">https://doi.org/10.1145/3308558.3313666</a>
 * Nasr, M., & Tschantz, M. C. (2020). "Bidding strategies with gender nondiscrimination constraints for online ad auctions." In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 337-347). <a href="https://dl.acm.org/doi/pdf/10.1145/3351095.3375783">https://dl.acm.org/doi/pdf/10.1145/3351095.3375783</a>
 * Datta, A., Datta, A., Makagon, J., Mulligan, D.K. & Tschantz, M.C.. (2018). "Discrimination in Online Advertising: A Multidisciplinary Inquiry." Proceedings of the 1st Conference on Fairness, Accountability and Transparency, in PMLR 81:20-34. <a href="http://proceedings.mlr.press/v81/datta18a/datta18a.pdf">http://proceedings.mlr.press/v81/datta18a/datta18a.pdf</a>
-* Koenecke, A., Nam, A., Lake, E., Nudell, J., Quartey, M., Mengesha, Z., Toups, C., Rickford, J.R., Jurafsky, D. and Goel, S., 2020. "Racial disparities in automated speech recognition." Proceedings of the National Academy of Sciences, 117(14), pp.7684-7689. <a href="https://www.pnas.org/content/117/14/7684">https://www.pnas.org/content/117/14/7684</a>
 * Ali, M., Sapiezynski, P., Bogen, M., Korolova, A., Mislove, A., & Rieke, A. (2019). "Discrimination through optimization: How Facebook's Ad delivery can lead to biased outcomes." Proceedings of the ACM on Human-Computer Interaction, 3(CSCW), 1-30. <a href="https://dl.acm.org/doi/pdf/10.1145/3359301">https://dl.acm.org/doi/pdf/10.1145/3359301</a>
+
+### Facial, biometric, speech recognition
+* Buolamwini, J., & Gebru, T. (2018, January). Gender shades: Intersectional accuracy disparities in commercial gender classification. In Conference on fairness, accountability and transparency (pp. 77-91). PMLR. <a href="http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf">http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf</a>
+* Koenecke, A., Nam, A., Lake, E., Nudell, J., Quartey, M., Mengesha, Z., Toups, C., Rickford, J.R., Jurafsky, D. and Goel, S., 2020. "Racial disparities in automated speech recognition." Proceedings of the National Academy of Sciences, 117(14), pp.7684-7689. <a href="https://www.pnas.org/content/117/14/7684">https://www.pnas.org/content/117/14/7684</a>
+
+### Recommender systems and search engine rankings
+
 * Marc Faddoul, Guillaume Chaslot, and Hany Farid. 2020. A longitudinal analysis of YouTube’s promotion of conspiracy
 videos. arxiv:2003.03318 [cs.CY] <a href="https://arxiv.org/abs/2003.0331">https://arxiv.org/abs/2003.0331</a>
-* Giridhari Venkatadri, Piotr Sapiezynski, Elissa Redmiles, Alan Mislove, Oana Goga, Michelle Mazurek, and Krishna P. Gummadi. 2019. Auditing Offline Data Brokers via Facebook’s Advertising Platform. The Web Conference 2019. <a href="https://doi.org/10.1145/3308558.3313666">https://doi.org/10.1145/3308558.3313666</a>
+
 * Ulloa, R., Makhortykh, M., & Urman, A. (2021). "Algorithm Auditing at a Large-Scale: Insights from Search Engine Audits." arXiv preprint arXiv:2106.05831. <a href="https://arxiv.org/abs/2106.05831">https://arxiv.org/abs/2106.05831</a>
 
-### The ProPublica vs. COMPAS/Northpointe debate
+### Social media moderation
+
+* M. Eslami, K. Vaccaro, K. Karahalios, and K. Hamilton. “Be careful; things can be worse than they appear”: Understanding Biased Algorithms and Users’ Behavior around Them in Rating Platforms (ICWSM 2017). <a href="http://social.cs.uiuc.edu/papers/ICWSM17-PrePrint.pdf" target="_blank">http://social.cs.uiuc.edu/papers/ICWSM17-PrePrint.pdf</a>
+* King, G., Pan, J., & Roberts, M. E. (2014). Reverse-engineering censorship in China: Randomized experimentation and participant observation. Science, 345(6199). <a href="https://science.sciencemag.org/content/345/6199/1251722.abstract">https://science.sciencemag.org/content/345/6199/1251722.abstract</a>
+
+### The ProPublica vs. COMPAS/Northpointe debate on criminal risk scores
 * Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). Machine bias: There’s software used across the country to predict future criminals. And it’s biased against blacks. ProPublica (2016). <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing<a/>
 * Dieterich, W., Mendoza, C., & Brennan, T. (2016). COMPAS risk scales: Demonstrating accuracy equity and predictive parity. Northpointe Inc. <a href="https://go.volarisgroup.com/rs/430-MBX-989/images/ProPublica_Commentary_Final_070616.pdf">https://go.volarisgroup.com/rs/430-MBX-989/images/ProPublica_Commentary_Final_070616.pdf</a>
 * Angwin, J., & Larson, J. (2016). Technical Response to Northpointe. ProPublica. <a href="https://www.propublica.org/article/technical-response-to-northpointe">https://www.propublica.org/article/technical-response-to-northpointe</a> (and their annotations of the Dieterich et al response: <a href="https://www.documentcloud.org/documents/3248777-Lowenkamp-Fedprobation-sept2016-0.html">https://www.documentcloud.org/documents/3248777-Lowenkamp-Fedprobation-sept2016-0.html</a>
 * Flores, A. W., Bechtel, K., & Lowenkamp, C. T. (2016). False positives, false negatives, and false analyses: rejoinder to machine bias: There's software used across the country to predict future criminals. and it's biased against blacks. Federal Probation, 80(2), 38-46. <a href="https://www.crj.org/assets/2017/07/9_Machine_bias_rejoinder.pdf">https://www.crj.org/assets/2017/07/9_Machine_bias_rejoinder.pdf</a>
 * Dressel, J., & Farid, H. (2018). The accuracy, fairness, and limits of predicting recidivism. Science advances, 4(1), eaao5580. <a href="https://advances.sciencemag.org/content/advances/4/1/eaao5580.full.pdf">https://advances.sciencemag.org/content/advances/4/1/eaao5580.full.pdf</a>
 * Washington, A. L. (2018). How to argue with an algorithm: Lessons from the COMPAS-ProPublica debate. Colo. Tech. LJ, 17, 131. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3357874">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3357874</a>
+
+### Rankings
+* Qiu, H. and Du, W. "A True Lie about Reed College: U.S News Ranking" <a href="https://raw.githubusercontent.com/huayingq1996/Reed-College-Ranking/master/paper.pdf" target="_blank">https://raw.githubusercontent.com/huayingq1996/Reed-College-Ranking/master/paper.pdf</a>
 
