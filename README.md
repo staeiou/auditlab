@@ -35,6 +35,7 @@ Note that the final reading list and schedule has not yet been finalized. Please
 * Bandy, J. (2021). Problematic Machine Behavior: A Systematic Literature Review of Algorithm Audits. Proceedings of the ACM on Human-Computer Interaction, 5(CSCW1), 1-34. <a href="https://dl.acm.org/doi/pdf/10.1145/3449148">https://dl.acm.org/doi/pdf/10.1145/3449148</a>
 
 ## The legal and ethical issues of conducting audits
+* Raji, I. D., Gebru, T., Mitchell, M., Buolamwini, J., Lee, J., & Denton, E. (2020, February). Saving face: Investigating the ethical concerns of facial recognition auditing. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (pp. 145-151). <a href="https://dl.acm.org/doi/pdf/10.1145/3375627.3375820">https://dl.acm.org/doi/pdf/10.1145/3375627.3375820</a>
 * Sandvig v. Barr ruling by the U.S. District Court for D.C.: <a href="https://www.aclu.org/sites/default/files/field_document/sandvig_opinion.pdf" target="_blank">https://www.aclu.org/sites/default/files/field_document/sandvig_opinion.pdf</a>. Read pages 1-2 and 15-28 (part 2 beginning with "II. Interpreting the CFAA")
 * Wendler, David; Miller, Franklin G. "Deception in Research." The Oxford Textbook of Clinical Research Ethics. Oxford University Press, New York. (2008) pgs. 320-321.
 
@@ -56,13 +57,15 @@ Note that the final reading list and schedule has not yet been finalized. Please
 * Hannak, A., Soeller, G., Lazer, D., Mislove, A., Wilson, C. (2014). Measuring Price Discrimination and Steering on E-commerce Web Sites. (IMC ’14). <a href="http://personalization.ccs.neu.edu/papers/price_discrimination.pdf" target="_blank">http://personalization.ccs.neu.edu/papers/price_discrimination.pdf</a>
 * Amit Datta, Michael Carl Tschantz, and  Anupam Datta. (2015). Automated Experiments on Ad Privacy Settings: A Tale of Opacity, Choice, and Discrimination. PoPETs 2015: 1. <a href="https://www.degruyter.com/view/j/popets.2015.1.issue-1/popets-2015-0007/popets-2015-0007.xml" target="_blank">https://www.degruyter.com/view/j/popets.2015.1.issue-1/popets-2015-0007/popets-2015-0007.xml</a>
 * Giridhari Venkatadri, Piotr Sapiezynski, Elissa Redmiles, Alan Mislove, Oana Goga, Michelle Mazurek, and Krishna P. Gummadi. 2019. Auditing Offline Data Brokers via Facebook’s Advertising Platform. The Web Conference 2019. <a href="https://doi.org/10.1145/3308558.3313666">https://doi.org/10.1145/3308558.3313666</a>
-* Nasr, M., & Tschantz, M. C. (2020). "Bidding strategies with gender nondiscrimination constraints for online ad auctions." In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 337-347). <a href="https://dl.acm.org/doi/pdf/10.1145/3351095.3375783">https://dl.acm.org/doi/pdf/10.1145/3351095.3375783</a>
 * Datta, A., Datta, A., Makagon, J., Mulligan, D.K. & Tschantz, M.C.. (2018). "Discrimination in Online Advertising: A Multidisciplinary Inquiry." Proceedings of the 1st Conference on Fairness, Accountability and Transparency, in PMLR 81:20-34. <a href="http://proceedings.mlr.press/v81/datta18a/datta18a.pdf">http://proceedings.mlr.press/v81/datta18a/datta18a.pdf</a>
 * Ali, M., Sapiezynski, P., Bogen, M., Korolova, A., Mislove, A., & Rieke, A. (2019). "Discrimination through optimization: How Facebook's Ad delivery can lead to biased outcomes." Proceedings of the ACM on Human-Computer Interaction, 3(CSCW), 1-30. <a href="https://dl.acm.org/doi/pdf/10.1145/3359301">https://dl.acm.org/doi/pdf/10.1145/3359301</a>
 
 ### Facial, biometric, speech recognition
 * Buolamwini, J., & Gebru, T. (2018, January). Gender shades: Intersectional accuracy disparities in commercial gender classification. In Conference on fairness, accountability and transparency (pp. 77-91). PMLR. <a href="http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf">http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf</a>
 * Koenecke, A., Nam, A., Lake, E., Nudell, J., Quartey, M., Mengesha, Z., Toups, C., Rickford, J.R., Jurafsky, D. and Goel, S., 2020. "Racial disparities in automated speech recognition." Proceedings of the National Academy of Sciences, 117(14), pp.7684-7689. <a href="https://www.pnas.org/content/117/14/7684">https://www.pnas.org/content/117/14/7684</a>
+* Tatman, R. (2017, April). Gender and dialect bias in YouTube’s automatic captions. In Proceedings of the First ACL Workshop on Ethics in Natural Language Processing (pp. 53-59). <a href="https://www.aclweb.org/anthology/W17-1606.pdf">https://www.aclweb.org/anthology/W17-1606.pdf</a>
+* Tatman, R., & Kasten, C. (2017, August). Effects of Talker Dialect, Gender & Race on Accuracy of Bing Speech and YouTube Automatic Captions. In Interspeech (pp. 934-938). <a href="https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1746.PDF">https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1746.PDF</a>
+* Raji, I. D., Gebru, T., Mitchell, M., Buolamwini, J., Lee, J., & Denton, E. (2020, February). Saving face: Investigating the ethical concerns of facial recognition auditing. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (pp. 145-151). <a href="https://dl.acm.org/doi/pdf/10.1145/3375627.3375820">https://dl.acm.org/doi/pdf/10.1145/3375627.3375820</a>
 
 ### Recommender systems and search engine rankings
 
@@ -71,10 +74,14 @@ videos. arxiv:2003.03318 [cs.CY] <a href="https://arxiv.org/abs/2003.0331">https
 
 * Ulloa, R., Makhortykh, M., & Urman, A. (2021). "Algorithm Auditing at a Large-Scale: Insights from Search Engine Audits." arXiv preprint arXiv:2106.05831. <a href="https://arxiv.org/abs/2106.05831">https://arxiv.org/abs/2106.05831</a>
 
-### Social media and user-generated content
+### Social media and user-generated content (mostly NLP / sentiment analysis)
 
 * M. Eslami, K. Vaccaro, K. Karahalios, and K. Hamilton. “Be careful; things can be worse than they appear”: Understanding Biased Algorithms and Users’ Behavior around Them in Rating Platforms (ICWSM 2017). <a href="http://social.cs.uiuc.edu/papers/ICWSM17-PrePrint.pdf" target="_blank">http://social.cs.uiuc.edu/papers/ICWSM17-PrePrint.pdf</a>
 * King, G., Pan, J., & Roberts, M. E. (2014). Reverse-engineering censorship in China: Randomized experimentation and participant observation. Science, 345(6199). <a href="https://science.sciencemag.org/content/345/6199/1251722.abstract">https://science.sciencemag.org/content/345/6199/1251722.abstract</a>
+* Blodgett, S. L., & O'Connor, B. (2017). Racial disparity in natural language processing: A case study of social media african-american english. arXiv preprint arXiv:1707.00061.  <a href="https://arxiv.org/pdf/1707.00061.pdf">https://arxiv.org/pdf/1707.00061.pdf</a>
+* Kiritchenko, S., & Mohammad, S. M. (2018). Examining gender and race bias in two hundred sentiment analysis systems. arXiv preprint arXiv:1805.04508. <a href="https://arxiv.org/abs/1805.04508">https://arxiv.org/abs/1805.04508</a>
+* Rios, A. (2020, April). FuzzE: Fuzzy fairness evaluation of offensive language classifiers on African-American English. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 34, No. 01, pp. 881-889). <a href="https://doi.org/10.1609/aaai.v34i01.5434">https://doi.org/10.1609/aaai.v34i01.5434 </a>
+* Davidson, T., Bhattacharya, D., & Weber, I. (2019). Racial bias in hate speech and abusive language detection datasets. arXiv preprint arXiv:1905.12516. <a href="https://arxiv.org/pdf/1905.12516">https://arxiv.org/pdf/1905.12516</a>
 
 ### The ProPublica vs. COMPAS/Northpointe debate on COMPAS criminal risk scores
 * Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). Machine bias: There’s software used across the country to predict future criminals. And it’s biased against blacks. ProPublica (2016). <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing<a/>
