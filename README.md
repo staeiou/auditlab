@@ -39,7 +39,7 @@ Note that the final reading list and schedule has not yet been finalized. Please
 * Vaccaro, K., Karahalios, K., Sandvig, C., Hamilton, K., & Langbort, C. (2015). "Agree or cancel? research and terms of service compliance." In ACM CSCW Ethics Workshop: Ethics for Studying Sociotechnical Systems in a Big Data World. <a href="http://www-personal.umich.edu/~csandvig/research/Vaccaro-CSCW-Ethics-2015.pdf">http://www-personal.umich.edu/~csandvig/research/Vaccaro-CSCW-Ethics-2015.pdf</a>
 * Bruckman, A. (2016, February 26). "Do Researchers Need to Abide by Terms of Service (TOS)? An Answer." The Next Bison: Social Computing and Culture. <a href="https://nextbison.wordpress.com/2016/02/26/tos/">https://nextbison.wordpress.com/2016/02/26/tos/</a>
 * Sandvig v. Barr ruling by the U.S. District Court for D.C.: <a href="https://www.aclu.org/sites/default/files/field_document/sandvig_opinion.pdf" target="_blank">https://www.aclu.org/sites/default/files/field_document/sandvig_opinion.pdf</a>. Read pages 1-2 and 15-28 (part 2 beginning with "II. Interpreting the CFAA")
-* Wendler, David; Miller, Franklin G. "Deception in Research." The Oxford Textbook of Clinical Research Ethics. Oxford University Press, New York. (2008) pgs. 320-321.
+* Wendler, David; Miller, Franklin G. "Deception in Research." The Oxford Textbook of Clinical Research Ethics. Oxford University Press, New York. (2008) pgs. 315-324. <a href="auditlab.stuartgeiger.com/static/deception-ethics-wendler-miller.pdf">https://auditlab.stuartgeiger.com/static/deception-ethics-wendler-miller.pdf</a>
 
 ### The UMN Linux kernel security audit
 * Clark, M. 2021. The Verge. "University of Minnesota banned from contributing to Linux kernel." <a href="https://www.theverge.com/2021/4/22/22398156/university-minnesota-linux-kernal-ban-research" target="_blank">https://www.theverge.com/2021/4/22/22398156/university-minnesota-linux-kernal-ban-research</a>
@@ -48,7 +48,6 @@ Note that the final reading list and schedule has not yet been finalized. Please
 * Hacker News Thread. 2021. "They introduce kernel bugs on purpose." <a href="https://news.ycombinator.com/item?id=26887670" target="_blank">https://news.ycombinator.com/item?id=26887670</a>
  
 ### On legal challenges to algorithms used by government agencies
-* Pasquale, Frank. 2006. "Rankings, Reductionism, and Responsibility" Cleveland State Law Review, 54:115+. <a href="http://digitalcommons.law.umaryland.edu/fac_pubs/1351/" target="_blank">http://digitalcommons.law.umaryland.edu/fac_pubs/1351/</a>
 * Citron, Danielle Keats, and Frank A. Pasquale. 2014. "The Scored Society: Due Process for Automated Predictions." Washington Law Review 89. <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2376209" target="_blank">http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2376209</a>
 * Citron, Danielle Keats, Technological Due Process. Washington University Law Review, Vol. 85, pp. 1249-1313, 2007. READ § I.A., II.B.2, III.C.2. <a href="http://ssrn.com/abstract=1012360" target="_blank">http://ssrn.com/abstract=1012360</a>
 * Stuart, G., "Databases, Felons, and Voting: Errors and Bias in the Florida Felons Exclusion List in the 2000 Presidential Elections" (September 2002). KSG Working Paper Series RWP 02-041. Read pp. 22-40. <a href="http://ssrn.com/abstract=336540" target="_blank">http://ssrn.com/abstract=336540</a>
