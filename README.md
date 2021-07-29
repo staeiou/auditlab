@@ -56,8 +56,8 @@ Note that the final reading list and schedule has not yet been finalized. Please
 ## Metrics of fairness, bias, and related concepts
 (A big TBD here!)
 * Barocas, S., Hardt, M., & Narayanan, A. (2017). Fairness in machine learning: limitations and opportunities. <a href="https://fairmlbook.org">https://fairmlbook.org</a>
-* Narayanan, A. (2021). Fairness Definitions and Their Politics. In Tutorial presented at the ACM Conf. on Fairness, Accountability, and Transparency. <a href="https://www.youtube.com/embed/jIXIuYdnyyk">https://www.youtube.com/embed/jIXIuYdnyyk</a>
-* Jacobs, A. Z., & Wallach, H. (2021). Measurement and fairness. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 375-385). <a href="https://dl.acm.org/doi/abs/10.1145/3442188.3445901"> (and this tutorial video <a href="https://www.youtube.com/watch?v=va1lIfTCQ-E">https://www.youtube.com/watch?v=va1lIfTCQ-E</a>
+* Narayanan, A. (2021). 21 Fairness Definitions and Their Politics. In Tutorial presented at the ACM Conf. on Fairness, Accountability, and Transparency. <a href="https://www.youtube.com/embed/jIXIuYdnyyk">https://www.youtube.com/embed/jIXIuYdnyyk</a>
+* Jacobs, A. Z., & Wallach, H. (2021). Measurement and fairness. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 375-385). <a href="https://dl.acm.org/doi/abs/10.1145/3442188.3445901">https://dl.acm.org/doi/abs/10.1145/3442188.3445901</a> (and this tutorial video <a href="https://www.youtube.com/watch?v=va1lIfTCQ-E">https://www.youtube.com/watch?v=va1lIfTCQ-E</a>
  
 ## Cases of algorithmic audits 
 
