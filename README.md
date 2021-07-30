@@ -85,6 +85,8 @@ videos. arxiv:2003.03318 [cs.CY] <a href="https://arxiv.org/abs/2003.0331">https
 
 * Ulloa, R., Makhortykh, M., & Urman, A. (2021). "Algorithm Auditing at a Large-Scale: Insights from Search Engine Audits." arXiv preprint arXiv:2106.05831. <a href="https://arxiv.org/abs/2106.05831">https://arxiv.org/abs/2106.05831</a>
 
+* Noble, S. U. (2018). Algorithms of oppression. New York University Press.
+
 ### Social media and user-generated content (mostly NLP / sentiment analysis)
 
 * M. Eslami, K. Vaccaro, K. Karahalios, and K. Hamilton. “Be careful; things can be worse than they appear”: Understanding Biased Algorithms and Users’ Behavior around Them in Rating Platforms (ICWSM 2017). <a href="http://social.cs.uiuc.edu/papers/ICWSM17-PrePrint.pdf" target="_blank">http://social.cs.uiuc.edu/papers/ICWSM17-PrePrint.pdf</a>
