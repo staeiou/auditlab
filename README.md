@@ -58,6 +58,7 @@ Note that the final reading list and schedule has not yet been finalized. Please
 * Barocas, S., Hardt, M., & Narayanan, A. (2017). Fairness in machine learning: limitations and opportunities. <a href="https://fairmlbook.org">https://fairmlbook.org</a>
 * Narayanan, A. (2021). 21 Fairness Definitions and Their Politics. In Tutorial presented at the ACM Conf. on Fairness, Accountability, and Transparency. <a href="https://www.youtube.com/embed/jIXIuYdnyyk">https://www.youtube.com/embed/jIXIuYdnyyk</a>
 * Jacobs, A. Z., & Wallach, H. (2021). Measurement and fairness. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 375-385). <a href="https://dl.acm.org/doi/abs/10.1145/3442188.3445901">https://dl.acm.org/doi/abs/10.1145/3442188.3445901</a> (and this tutorial video <a href="https://www.youtube.com/watch?v=va1lIfTCQ-E">https://www.youtube.com/watch?v=va1lIfTCQ-E</a>
+* Keyes, O., Hutson, J., & Durbin, M. (2019). A mulching proposal: Analysing and improving an algorithmic system for turning the elderly into high-nutrient slurry. In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-11). <a href="https://ironholds.org/resources/papers/mulching.pdf">https://ironholds.org/resources/papers/mulching.pdf</a>
  
 ## Cases of algorithmic audits 
 
