@@ -17,6 +17,25 @@ There are no official prerequsites to register and students from all departments
 
 Please get in touch if you have any doubts or concerns about the prerequsites. 
 
+# Schedule
+
+## Week 1: Introduction
+
+No readings for this week. Play around with <a href="https://sentimentomatic.stuartgeiger.com">https://sentimentomatic.stuartgeiger.com</a>
+
+## Week 2: What is an audit?
+Readings:
+
+* Inioluwa Deborah Raji, Andrew Smart, Rebecca N. White, Margaret Mitchell, Timnit Gebru, Ben Hutchinson, Jamila Smith-Loud, Daniel Theron, and Parker Barnes. 2020. Closing the AI Accountability Gap: Defining an End-to-End Framework for Internal Algorithmic Auditing. In Proc. of FAT*. <a href="https://dl.acm.org/doi/pdf/10.1145/3351095.3372873">https://dl.acm.org/doi/pdf/10.1145/3351095.3372873</a>
+* Sandvig, Christian, Kevin Hamilton, Karrie Karahalios, and Cedric Langbort. forthcoming. "Auditing Algorithms: Research Methods for Detecting Discrimination on Internet Platforms." Computational Culture. <a href="http://www-personal.umich.edu/~csandvig/research/Auditing%20Algorithms%20--%20Sandvig%20--%20ICA%202014%20Data%20and%20Discrimination%20Preconference.pdf" target="_blank">http://www-personal.umich.edu/~csandvig/research/Auditing%20Algorithms%20--%20Sandvig%20--%20ICA%202014%20Data%20and%20Discrimination%20Preconference.pdf</a>
+* Saltman, J. (1975). Implementing Local Housing Laws Through Social Action. Journal of Applied Behavioral Science, 11(1): 39-61. <a href="https://doi.org/10.1177%2F002188637501100105">
+ 
+ ## Week 3: The ethical issues of conducting audits
+ 
+ You must have completed the CITI IRB basic human subjects course by the end of week 2.
+ 
+ 
+
 # Potential readings
 Note that the final reading list and schedule has not yet been finalized. Please reach out to Stuart Geiger if you have any suggestions or ideas. And thanks to <a href="https://auditingalgorithms.science">auditingalgorithms.science</a> for many of these!
 
