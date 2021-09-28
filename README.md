@@ -70,6 +70,9 @@ Note that the final reading list and schedule has not yet been finalized. Please
 * Giridhari Venkatadri, Piotr Sapiezynski, Elissa Redmiles, Alan Mislove, Oana Goga, Michelle Mazurek, and Krishna P. Gummadi. 2019. Auditing Offline Data Brokers via Facebook’s Advertising Platform. The Web Conference 2019. <a href="https://doi.org/10.1145/3308558.3313666">https://doi.org/10.1145/3308558.3313666</a>
 * Datta, A., Datta, A., Makagon, J., Mulligan, D.K. & Tschantz, M.C.. (2018). "Discrimination in Online Advertising: A Multidisciplinary Inquiry." Proceedings of the 1st Conference on Fairness, Accountability and Transparency, in PMLR 81:20-34. <a href="http://proceedings.mlr.press/v81/datta18a/datta18a.pdf">http://proceedings.mlr.press/v81/datta18a/datta18a.pdf</a>
 * Ali, M., Sapiezynski, P., Bogen, M., Korolova, A., Mislove, A., & Rieke, A. (2019). "Discrimination through optimization: How Facebook's Ad delivery can lead to biased outcomes." Proceedings of the ACM on Human-Computer Interaction, 3(CSCW), 1-30. <a href="https://dl.acm.org/doi/pdf/10.1145/3359301">https://dl.acm.org/doi/pdf/10.1145/3359301</a>
+* Le Chen, Alan Mislove, and Christo Wilson. 2015. Peeking Beneath the Hood of Uber. In Proceedings of the 2015 Internet Measurement Conference (IMC '15). Association for Computing Machinery, New York, NY, USA, 495–508. <a href="https://doi.org/10.1145/2815675.2815681">https://doi.org/10.1145/2815675.2815681</a>
+
+
 
 ### Facial, biometric, speech recognition
 * Buolamwini, J., & Gebru, T. (2018, January). Gender shades: Intersectional accuracy disparities in commercial gender classification. In Conference on fairness, accountability and transparency (pp. 77-91). PMLR. <a href="http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf">http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf</a>
@@ -96,6 +99,12 @@ videos. arxiv:2003.03318 [cs.CY] <a href="https://arxiv.org/abs/2003.0331">https
 * Rios, A. (2020, April). FuzzE: Fuzzy fairness evaluation of offensive language classifiers on African-American English. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 34, No. 01, pp. 881-889). <a href="https://doi.org/10.1609/aaai.v34i01.5434">https://doi.org/10.1609/aaai.v34i01.5434 </a>
 * Davidson, T., Bhattacharya, D., & Weber, I. (2019). Racial bias in hate speech and abusive language detection datasets. arXiv preprint arXiv:1905.12516. <a href="https://arxiv.org/pdf/1905.12516">https://arxiv.org/pdf/1905.12516</a>
 
+# Hiring, admissions, and other social sorting
+
+* Wilson, Christo, Avijit Ghosh, Shan Jiang, Alan Mislove, Lewis Baker, Janelle Szary, Kelly Trindel, and Frida Polli. (2021). "Building and auditing fair algorithms: A case study in candidate screening." In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, pp. 666-677. <a href="https://evijit.github.io/docs/pymetrics_audit_FAccT.pdf">https://evijit.github.io/docs/pymetrics_audit_FAccT.pdf</a>
+* * See also their very open documentation about the legal agreement they signed, their budget, and other info: <a href="https://cbw.sh/audits.html">https://cbw.sh/audits.html</a> 
+* Qiu, H. and Du, W. "A True Lie about Reed College: U.S News Ranking" <a href="https://raw.githubusercontent.com/huayingq1996/Reed-College-Ranking/master/paper.pdf" target="_blank">https://raw.githubusercontent.com/huayingq1996/Reed-College-Ranking/master/paper.pdf</a>
+
 ### The ProPublica vs. COMPAS/Northpointe debate on COMPAS criminal risk scores
 * Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). Machine bias: There’s software used across the country to predict future criminals. And it’s biased against blacks. ProPublica (2016). <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing<a/>
 * Dieterich, W., Mendoza, C., & Brennan, T. (2016). COMPAS risk scales: Demonstrating accuracy equity and predictive parity. Northpointe Inc. <a href="https://go.volarisgroup.com/rs/430-MBX-989/images/ProPublica_Commentary_Final_070616.pdf">https://go.volarisgroup.com/rs/430-MBX-989/images/ProPublica_Commentary_Final_070616.pdf</a>
@@ -106,6 +115,5 @@ videos. arxiv:2003.03318 [cs.CY] <a href="https://arxiv.org/abs/2003.0331">https
 * Coalition for Critical Technology. “Abolish the #TechToPrisonPipeline.” Medium. <a href="https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16">https://medium.com/@CoalitionForCriticalTechnology/abolish-the-techtoprisonpipeline-9b5b14366b16</a> (the footnotes go into much more detail and are basically an academic review article)
  
 ### Other 
-* Qiu, H. and Du, W. "A True Lie about Reed College: U.S News Ranking" <a href="https://raw.githubusercontent.com/huayingq1996/Reed-College-Ranking/master/paper.pdf" target="_blank">https://raw.githubusercontent.com/huayingq1996/Reed-College-Ranking/master/paper.pdf</a>
 * Stuart, G., "Databases, Felons, and Voting: Errors and Bias in the Florida Felons Exclusion List in the 2000 Presidential Elections" (September 2002). KSG Working Paper Series RWP 02-041. Read pp. 22-40. <a href="http://ssrn.com/abstract=336540" target="_blank">http://ssrn.com/abstract=336540</a>
 
